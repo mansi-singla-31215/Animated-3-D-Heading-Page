@@ -48,7 +48,7 @@ body{
 	height: 100px;
 	width: 100px;	
 	position: relative;
-	margin: 25% 400px;
+	margin: 24% 400px;
 	transform-style: preserve-3d;
 	perspective: 1000px;
 	animation: rotate-cube 5s ease-in-out infinite;
